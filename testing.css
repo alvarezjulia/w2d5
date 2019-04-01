@@ -19,13 +19,3 @@ body {
     padding: 25px calc((100vw - 960px) / 2);
 }
 
-.test {
-    background-color: brown;
-    /* height: 80;*/
-    width: 30;
-    position: absolute;
-    z-index: 10;
-    margin-left: 200px;
-    margin-top: 120px;
-    opacity: 0.9;
-}
